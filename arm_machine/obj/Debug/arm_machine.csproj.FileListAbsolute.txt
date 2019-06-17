@@ -1,0 +1,10 @@
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\bin\Debug\arm_machine.exe.config
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\bin\Debug\arm_machine.exe
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\bin\Debug\arm_machine.pdb
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\obj\Debug\arm_machine.csprojAssemblyReference.cache
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\obj\Debug\arm_machine.Form1.resources
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\obj\Debug\arm_machine.Properties.Resources.resources
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\obj\Debug\arm_machine.csproj.GenerateResource.cache
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\obj\Debug\arm_machine.csproj.CoreCompileInputs.cache
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\obj\Debug\arm_machine.exe
+D:\New_Zealand_student_toy\GUI\arm_machine\arm_machine\obj\Debug\arm_machine.pdb
